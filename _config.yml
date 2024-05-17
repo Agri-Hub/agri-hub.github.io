@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   services that utilize satellite data, drone images, street-level images, geotagged photos from the field 
   and numerical weather predictions to address real-world problems.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://agri-hub.github.io " # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://agri-hub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: beyond_center
 github_username:  agri-hub
 
