@@ -27,8 +27,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Over the last ten years, our team has participated in more than ten EU-funded projects providing agricultural information 
   services that utilize satellite data, drone images, street-level images, geotagged photos from the field 
   and numerical weather predictions to address real-world problems.
-baseurl: "/" # the subpath of your site, e.g. /blog
+domain: agri-hub.github.io
 url: "https://agri-hub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
 twitter_username: beyond_center
 github_username:  agri-hub
 
