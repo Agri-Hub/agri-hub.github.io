@@ -32,6 +32,7 @@ url: "https://agri-hub.github.io" # the base hostname & protocol for your site, 
 baseurl: "/" # the subpath of your site, e.g. /blog
 twitter_username: beyond_center
 github_username:  agri-hub
+github: [metadata]
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
